@@ -7,7 +7,12 @@
   - Chrome
   - github
   - git (xcode / git-bash)
+  - Command Line basics
 - Lesson 2
+  - Basic HTML
+    - Headers, Divs, Links, Images
+  - Linking a CSS file
+    - Specify Font and background color
 
 ### Week 2
 ### Week 3
