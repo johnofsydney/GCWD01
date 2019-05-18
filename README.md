@@ -6,6 +6,8 @@ Location: On Site in Annandale
 Instructors:
   - John Coote
   - mr.john.coote@gmail.com
+  - EJ
+  -
 
 Start Date:
 Duration:

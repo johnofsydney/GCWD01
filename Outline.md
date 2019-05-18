@@ -1,53 +1,70 @@
 # Lesson Plan
 
 ### Week 1
-- Lesson 1 - install fest
+- Lesson 1.1 - install fest
+Welcome, Introduction to classwork and to each other
+Install Tools, sign up for github, slack etc
   - VS code
   - Slack
   - Chrome
   - github
   - git (xcode / git-bash)
-- Lesson 2
-
-### Week 2
-### Week 3
-### Week 4
-### Week 5
-### Week 6
-### Week 7
-### Week 8
-### Week 9
-### Week 10
-
-
-1
-Welcome, Introduction to classwork and to each other
-Install Tools, sign up for github, slack etc
-2
+- Lesson 1.2
 What is HTML, What is CSS
 Make a website with HTML elements and some very simple CSS
-3
+  - Box Model
+  - Head / Body
+  - Divs
+  - Links (CSS, images, ahrefs)
+
+### Week 2
 Make a responsive page with header, footer, side, main
-4
+Introduce DOM concept
+Chrome Dev Tools
+
+### Week 3
 What is JS
 Console
 Variables (text, numbers, arrays, boolean)
 If Statements - fizzbuzz
 Link main.js to index.html
-5
+
+### Week 4
+JS warmup exercise
+elements, classes, IDs,
+CSS targeting above
+
+
+### Week 5
+JS warmup exercise
 For Loops
-DOM
-6
 Functions
-7
+jQuery
+DOM
 
-8
+### Week 6
+JS warmup exercise
+use jQuery to listen for input
+use jQuery to update the DOM
 
-9
-Work on Project Page
 
-10
-Polish, upload and presentations
+### Week 7
+JS warmup exercise
+Open discussion about project. Examples
+- tic tac toe
+-
+
+### Week 8
+JS warmup exercise
+
+### Week 9
+JS warmup exercise
+
+### Week 10
+Project polish, upload & presentation
+
+
+
 
 
 
