@@ -52,13 +52,18 @@ use jQuery to update the DOM
 JS warmup exercise
 Open discussion about project. Examples
 - tic tac toe
--
+- foo
+- bar
 
 ### Week 8
 JS warmup exercise
+Example web page using techniques learnt so far.
+Discuss students project ideas
 
 ### Week 9
 JS warmup exercise
+Example web page using techniques learnt so far.
+Discuss students project ideas
 
 ### Week 10
 Project polish, upload & presentation
