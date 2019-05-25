@@ -20,6 +20,7 @@ The three basic elements in a simple modern webpage are
 - HTML - the bones of the website and the content.
 - CSS - defines styles, colors, placement and more.
 - Javascript - a programming language that runs in the browser.
+
 The class will cover all three elements, in as much detail as is possible in a short part time course. We will be using software that is available on the internet for no cost, and is in daily use by actual software developers. We will be deploying web pages to the internet throughout the course.
 
 The class will need to move fairly quickly in order to cover the material to a useful depth. Students are encouraged to practice as much as possible in between classes. We will be using _Slack_ for chat & messaging both in the classroom and outside of class times, students that get involved asking and answering questions will get the most from the course.
