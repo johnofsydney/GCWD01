@@ -5,9 +5,8 @@ Location: On Site in Annandale
 
 Instructors:
   - John Coote
-  - mr.john.coote@gmail.com
+    - mr.john.coote@gmail.com
   - EJ
-  -
 
 Classes will be every {date_tbc} from 6.00 - 8.30pm
 (Week 1 will have two classes on consecutive days)
