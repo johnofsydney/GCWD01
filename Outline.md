@@ -72,5 +72,5 @@ Project polish, upload & presentation
 
 
 
-
+https://gcwebdev.slack.com/messages/CJMK6ENSC/
 https://gcwebdev.slack.com/messages/CJMK6ENSC/
