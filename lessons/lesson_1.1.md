@@ -5,6 +5,8 @@
 ### Installfest
 Install Tools, sign up for github, slack etc
   - Slack
+    - https://slack.com/intl/en-au/downloads/mac
+    - https://slack.com/intl/en-au/downloads/windows
   - VS code
     << Need to agree on list of must have extensions >>
     << Atom also OK >>
@@ -13,7 +15,7 @@ Install Tools, sign up for github, slack etc
     - pick a sensible username - it will be a part of your online dev persona and part of the url for all the web pages we will deploy during class.
   - git (xcode / git-bash)
   - trello
-  << let's make a trello board with tickets for all the topics we need to cover >>
+    - https://trello.com/b/7If9lIZP/gcwd-board
 
 << Need download links for all these >>
 << Workspace for slack - https://gcwebdev.slack.com/messages/CJMK6ENSC/ >>
