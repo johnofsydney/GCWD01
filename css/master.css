@@ -1,0 +1,29 @@
+* {
+    border: red solid 1px;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background: pink;
+}
+
+.container {
+    margin: 0 auto;
+    width: 80%;
+    display: flex;
+    background-color: aquamarine;
+    height: 100vh;
+}
+
+.main {
+    width: 100%;
+    background-color: antiquewhite;
+}
+
+.sidebar {
+    width: 100%;
+    background-color: coral;
+
+}
