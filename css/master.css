@@ -28,7 +28,7 @@ body {
     padding: 1rem;
 }
 
-.blue-gradient { 
+.blue-gradient {
     background: rgb(183, 222, 237);
     /* Old browsers */
     background: -moz-linear-gradient(left, rgba(183, 222, 237, 1) 0%, rgba(33, 180, 226, 1) 88%);
