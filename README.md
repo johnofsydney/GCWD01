@@ -19,7 +19,7 @@ This class is an introduction to Web Development, offered to youth clients of th
 The three basic elements in a simple modern webpage are
 - HTML - the bones of the website and the content.
 - CSS - defines styles, colors, placement and more.
-- Javascript - a programming language that runs in the browser.
+- Javascript - a programming language that runs in the browser. Used for Automation, interactivity and excitement.
 
 The class will cover all three elements, in as much detail as is possible in a short part time course. We will be using software that is available on the internet for no cost, and is in daily use by actual software developers. We will be deploying web pages to the internet throughout the course.
 
