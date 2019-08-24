@@ -20,3 +20,6 @@ Install Tools, sign up for github, slack etc
     - https://trello.com/b/7If9lIZP/gcwd-board
 
 << Workspace for slack - https://gcwebdev.slack.com/messages/CJMK6ENSC/ >>
+
+
+### make the webpage here:

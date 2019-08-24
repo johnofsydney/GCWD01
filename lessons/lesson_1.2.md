@@ -31,5 +31,7 @@
   - deploy using git
 
 - homework and reading
+    - https://www.w3schools.com/html/html_intro.asp
+    
   - << can we find a useful codepen? >>
   - make another web page. practice & muscle memory.
